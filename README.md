@@ -90,7 +90,44 @@ Guia de como usar o software.
 
 Esta é a documentação da API do nosso projeto.
 
-# examples/
+# exemples
 
 Este diretório Contém exemplios do teu pai.
+
+
+# Overview 
+## Visão Geral
+
+Esse projeto é uma solução pra...
+
+# Instalação 
+
+## Requisitos 
+
+- Python 3.x 
+- Flask 
+- ...
+
+## Instalação via pip 
+
+para instalar, execute o seguinte comando...
+
+# Uso
+
+# Configuração 
+
+para começar, configure...
+
+## Executando o software 
+
+para iniciar o software, dança acere ha mere 
+
+### `/api/v1/users` 
+
+Este endpoint retorana as info
+
+# Exemplos
+
+vai te fude se eu preciso explicar essa merda.
+
 
