@@ -1,133 +1,55 @@
-# Markdown syntax guide
+## Documentação do TaskManager
 
-## Headers 
+**1. Visão geral do software**
 
-# This is a Heading h1
-## This is a Heading h2
-###### This is a Heading h6
+O TaskManager é um programa simples que permite aos usuários criar, visualizar e gerenciar suas tarefas diárias de maneira eficiente. Ele oferece um menu intuitivo e fácil de usar, com opções para adicionar, visualizar, editar, remover e buscar tarefas. O programa também permite filtrar tarefas por status, o que pode ser útil para organizar e priorizar suas atividades.
 
-## Emphasis
-*This text will be italic*
-///
-_This will also be italic_
-///
-**This text will be Bold**
-///
-__This will also be Bold__
-///
-_You **can** combine than_
+**2. Instalação**
 
-### Unordered
-* Item 1
-* Item 2
-* Item 2a
-* Item 2b
+O TaskManager é um programa de código aberto e gratuito que pode ser facilmente instalado em qualquer sistema operacional. Para instalar o programa, basta seguir estas etapas:
 
-### Ordered
-1. Item 1
-2. Item 2
-3. Item 3
-    *item 3a
-    *item 3b
+1. Baixe o arquivo do programa a partir do repositório GitHub: [https://github.com/Eoxia/task-manager](https://github.com/joaoportolan93/Arquivo-Md)
+2. Extraia o arquivo baixado para uma pasta de sua escolha.
+3. Abra o terminal e navegue até a pasta onde o programa foi extraído.
+4. Execute o comando `./taskmanager` para iniciar o programa.
 
-## Images 
-![This is an alt text.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMLajIw9zfEOONqBvtUH5vSFimpGv2opVK-Q&s.webp "This is a sample image.")
-## Links 
-ce pode usar [Markdown Live Preview](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMLajIw9zfEOONqBvtUH5vSFimpGv2opVK-Q&s)
+**3. Guia de uso básico**
 
-## Blockquotes
-> Markdonw is a lightweigth markup language with plain-text-formatting syntax, created in 2004 By Jonh Gruber With Aaron Swartz. 
->
->> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+Ao iniciar o TaskManager, você será apresentado a um menu com as seguintes opções:
 
-## Tables 
+1. **Adicionar Tarefa:** Permite criar uma nova tarefa, inserindo seu título, descrição, data e status.
+2. **Visualizar Tarefas:** Exibe uma lista de todas as tarefas existentes, com seus respectivos detalhes.
+3. **Editar Tarefa:** Permite modificar os detalhes de uma tarefa existente, como título, descrição, data e status.
+4. **Remover Tarefa:** Exclui uma tarefa existente da lista.
+5. **Buscar Tarefa:** Permite encontrar uma tarefa específica usando seu título.
+6. **Filtrar Tarefas por Status:** Exibe apenas as tarefas que possuem um determinado status.
+7. **Sair:** Encerra o programa.
 
-|  Left Columns    |    Right columns      |
-| ---------------  |:---------------------:|
-|  Left foo        |      Right foo        |           
-|  Left bar        |      Rigth bar        |
-|  Left baz        |      Rigth baz        |
+Para navegar pelo menu, basta digitar o número da opção desejada e pressionar Enter.
 
-## Blocks of code 
-```
-let message - 'bah cupinxaaaa';
-alert(message);
-```
-## Inline code 
+**4. Contribuição**
 
-This web site is using `markedjs/marked`.
+O TaskManager é um projeto de código aberto e você é bem-vindo a contribuir para seu desenvolvimento. Se você tiver alguma sugestão de melhoria ou correção de bug, por favor, envie um pull request para o repositório GitHub do projeto.
 
-# index.md
-# Documentação do Projeto 
+**5. Recursos adicionais**
 
-ah man
+* Repositório GitHub do TaskManager: [https://github.com/Eoxia/task-manager](https://github.com/joaoportolan93/Arquivo-Md)
+* Documentação da API do TaskManager: [https://github.com/Eoxia/task-manager](https://github.com/joaoportolan93/Arquivo-Md)
 
-- [Visão Geral](ouverview.nd)
-- [Instalação](installation.md)
-- [Uso](usage.md)
-- [API](api/index.md)
-- [Exemplos](examples/)
+**6. Exemplo de uso**
 
-# ouverview.md
+**Cenário:** Você precisa organizar suas tarefas para a semana.
 
-## Visão Geral 
+**Passo a passo:**
 
-Esta é uma visão geral do projeto.
+1. Abra o TaskManager.
+2. Na opção 1 ("Adicionar Tarefa"), crie as tarefas que você precisa realizar durante a semana, inserindo seus títulos, descrições, datas e status.
+3. Na opção 2 ("Visualizar Tarefas"), visualize a lista de tarefas criadas.
+4. Na opção 3 ("Editar Tarefa"), modifique as informações das tarefas conforme necessário.
+5. Na opção 4 ("Remover Tarefa"), exclua as tarefas que você já concluiu.
+6. Na opção 6 ("Filtrar Tarefas por Status"), filtre as tarefas por status para visualizar apenas as que estão pendentes, em andamento ou concluídas.
+7. Utilize o menu para gerenciar suas tarefas ao longo da semana.
 
-# installation.md 
+**7. Conclusão**
 
-## Instalação 
-
-Instruções de instalação do projeto.
-
-#  usage.md 
-## Uso 
-
-Guia de como usar o software.
-
-# api/index.md
-## Documentação da API
-
-Esta é a documentação da API do nosso projeto.
-
-# exemples
-
-Este diretório Contém exemplios do teu pai.
-
-
-# Overview 
-## Visão Geral
-
-Esse projeto é uma solução pra...
-
-# Instalação 
-
-## Requisitos 
-
-- Python 3.x 
-- Flask 
-- ...
-
-## Instalação via pip 
-
-para instalar, execute o seguinte comando...
-
-# Uso
-
-# Configuração 
-
-para começar, configure...
-
-## Executando o software 
-
-para iniciar o software, dança acere ha mere 
-
-### `/api/v1/users` 
-
-Este endpoint retorana as info
-
-# Exemplos
-
-vai te fude se eu preciso explicar essa merda.
-
-
+O TaskManager é uma ferramenta útil para organizar e gerenciar suas tarefas diárias. Com seu menu intuitivo e fácil de usar, você pode facilmente criar, visualizar, editar, remover e buscar tarefas. O programa também oferece recursos adicionais, como filtragem por status, que podem ser úteis para organizar e priorizar suas atividades.
