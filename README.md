@@ -8,7 +8,7 @@ O TaskManager é um programa simples que permite aos usuários criar, visualizar
 
 O TaskManager é um programa de código aberto e gratuito que pode ser facilmente instalado em qualquer sistema operacional. Para instalar o programa, basta seguir estas etapas:
 
-1. Baixe o arquivo do programa a partir do repositório GitHub: [https://github.com/Eoxia/task-manager](https://github.com/joaoportolan93/Arquivo-Md)
+1. Baixe o arquivo do programa a partir do repositório GitHub: [https://github.com/joaoportolan93/Arquivo-Md](https://github.com/joaoportolan93/Arquivo-Md)
 2. Extraia o arquivo baixado para uma pasta de sua escolha.
 3. Abra o terminal e navegue até a pasta onde o programa foi extraído.
 4. Execute o comando `./taskmanager` para iniciar o programa.
@@ -33,8 +33,8 @@ O TaskManager é um projeto de código aberto e você é bem-vindo a contribuir 
 
 **5. Recursos adicionais**
 
-* Repositório GitHub do TaskManager: [https://github.com/Eoxia/task-manager](https://github.com/joaoportolan93/Arquivo-Md)
-* Documentação da API do TaskManager: [https://github.com/Eoxia/task-manager](https://github.com/joaoportolan93/Arquivo-Md)
+* Repositório GitHub do TaskManager: [https://github.com/joaoportolan93/Arquivo-Md](https://github.com/joaoportolan93/Arquivo-Md)
+* Documentação da API do TaskManager: [https://github.com/joaoportolan93/Arquivo-Md](https://github.com/joaoportolan93/Arquivo-Md)
 
 **6. Exemplo de uso**
 
